@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d66ea968b042e1349abad322c61a0300
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileMap: {instanceID: 0}
+  - Floor: {instanceID: 0}
+  - Wall: {instanceID: 0}
+  - EdgeWall: {instanceID: 0}
+  - Tree: {instanceID: 0}
+  - player: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  - tileCollider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
